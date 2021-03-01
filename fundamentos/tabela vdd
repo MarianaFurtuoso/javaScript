@@ -1,0 +1,20 @@
+v e  v = v
+v  e f = f
+
+v ou ?=  v
+f ou ? =?
+f ou f =f
+
+Ou exclusivo
+
+v xou v =f
+v xou f =v
+f xou v =v
+f xou f =f 
+
+!
+
+!v =f
+!f =v
+
+
